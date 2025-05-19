@@ -298,22 +298,13 @@ img {
 .skills__UVM {
   width: 80%;
 }
-.skills__css {
-  width: 85%;
-}
-.skills__js {
-  width: 65%;
-}
-.skills__c {
-  width: 80%;
-}
-.skills__img {
+/*.skills__img {
   border-radius: 0.5rem;
   height: 35vh;
   margin-top: 75px;
   margin-left: 25%;
   width: 20vw;
-}
+}*/
 /* ===== Projects =====*/
 
 .projects {
